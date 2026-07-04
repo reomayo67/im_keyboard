@@ -23,3 +23,13 @@ Ive arranged the diodes to look like a zig zag.
 Now, although it looks cool, it will be harder to implement the wiring within the pcb. Thats a challenge I am willing to take.
 I also decided to eventually flip the diodes so the wire lengths would be shorter, as well as trying to save space by squishing them together.
 Overall, I got the very basics of a board done today.
+
+July 4th
+
+After looking at plaids pcb, im gonna use his idea of alternatying between top cu adn bottom cu for the diode intersections.
+
+<img width="1016" height="106" alt="Screenshot 2026-07-04 094126" src="https://github.com/user-attachments/assets/ed0f2d96-0b71-4984-a25d-e9d5a23439e4" />
+
+As you can see, he rotates between the two copper layers to allow for all the diodes to coexist in such a tiny area without conflict.
+I got all of the columns wired together and connected the the mcu, as well as the first row connected to their diodes. I will have to use vias to be able to organize the tracks so they can coexist peacfully.
+
