@@ -13,7 +13,7 @@ After some revisions of the diodes and to where they orintate, i got smth like t
 
 <img width="1232" height="685" alt="Screenshot 2026-07-04 204827" src="https://github.com/user-attachments/assets/b77f26b6-355b-4591-bcdd-ad3f5790fc81" />
 
-They are alligned so the top layer is row 1, second layer is row 2, and so on. And going right, are the keys in that row. So after alligning ALL of them to their switches and tracking the columns together, I got this.
+They are alligned so the top layer is row 1, second layer is row 2, and so on. And going right, are the keys in that row. So after alligning ALL of them to their switches and tracking the columns together, adding the inverted fill zone, and a general pcb cutout, I got this.
 
 <img width="1199" height="678" alt="Screenshot 2026-07-04 232023" src="https://github.com/user-attachments/assets/a812cbca-fc23-4194-8ce0-c66062f8fe4e" />
 
