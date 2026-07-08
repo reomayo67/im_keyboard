@@ -19,3 +19,7 @@ this keyboard uses only through hole components and relies on a devboard. Any ty
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Freomayo67%2Fim_keyboard%2Fblob%2Fmain%2FPCB%2F%2523im_keyboard.kicad_pcb)
 
 The Case is 3d printed, made with fusion360.
+
+Here are the youtube videos i watched in order to make this
+https://www.youtube.com/watch?v=7azQkSu0m_U&t=491s
+https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=3s
