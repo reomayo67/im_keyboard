@@ -12,9 +12,11 @@ M2 8mm screws x2
 
 3d printed Plate, Case, and Shell
 
-PCB from JLCPCB .(Thats the manu im gonna use, if using another format gerber file to their sepcifics.
+PCB from JLCPCB .(Thats the manu im gonna use, if using another format gerber file to their sepcifics.)
 
 ATMEGA32u4 w/ through hole mounts x1
+
+34 of any Standard MX Switch.
 
 <img width="432" height="331" alt="Screenshot 2026-07-09 125644" src="https://github.com/user-attachments/assets/a0be7c66-70db-453f-8a44-96cf74a5b145" />
 
