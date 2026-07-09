@@ -61,7 +61,7 @@ I just filleted the outside into a nice curve instead. the case is 3 mm higher t
 After that, I slightly scaled the shell part by like 1.001 to account for 3d print innacuracy, as before this thang was an airtight seal.
 And thats the case done. Prolly took like 1-2 hours right? It took 6. :( and i accidentaly closed my stardance tab for lookout. Whelp.
 
-
+5 Hours Spent
 
 
 

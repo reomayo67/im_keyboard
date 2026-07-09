@@ -30,7 +30,7 @@ I also changed the board and slikscreen color to look better. I think the purple
 
 <img width="1437" height="815" alt="Screenshot 2026-07-05 215351" src="https://github.com/user-attachments/assets/b673d252-9c18-4fb9-b2e6-fd46d192f148" />
 
-
+3 Hours
 
 
 

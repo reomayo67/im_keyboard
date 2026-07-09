@@ -24,4 +24,4 @@ Now, although it looks cool, it will be harder to implement the wiring within th
 I also decided to eventually flip the diodes so the wire lengths would be shorter, as well as trying to save space by squishing them together.
 Overall, I got the very basics of a board done today.
 
-
+4 Hours

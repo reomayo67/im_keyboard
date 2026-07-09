@@ -36,3 +36,5 @@ The stabalizers I am getting are screw mounted BTW.
 Now all in all, today was super frustrating as I spent a total of 4 hours fumbling around all these different softwares and youtube videos
 JUST so i could start the actual work that I was meaning to do. The plate part took abt 2 hours.
 CYA next time.
+
+2 Hours

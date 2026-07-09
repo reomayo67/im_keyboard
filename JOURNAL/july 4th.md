@@ -24,3 +24,5 @@ Here is the 3d model with the visual renders of the components
 <img width="667" height="441" alt="Screenshot 2026-07-04 232004" src="https://github.com/user-attachments/assets/99616f8b-e15f-4827-8065-3f48e4e5452e" />
 
 Today was Chalk full of getting to know kicad better, which is amazing.
+
+2 hours
