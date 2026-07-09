@@ -12,7 +12,7 @@ M2 8mm screws x2
 
 3d printed Plate, Case, and Shell
 
-PCB from any manufacurer. Use GERBER file.
+PCB from JLCPCB .(Thats the manu im gonna use, if using another format gerber file to their sepcifics.
 
 ATMEGA32u4 w/ through hole mounts x1
 
