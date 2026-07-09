@@ -21,5 +21,7 @@ this keyboard uses only through hole components and relies on a devboard. Any ty
 The Case is 3d printed, made with fusion360.
 
 Here are the youtube videos i watched in order to make this
+
 https://www.youtube.com/watch?v=7azQkSu0m_U&t=491s
+
 https://www.youtube.com/watch?v=8WXpGTIbxlQ&t=3s
